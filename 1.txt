@@ -1,3 +1,0 @@
-bpawsfh
- git config --global user.email "hasbringer97@mail.ru"
-  git config --global user.name "Andryusha"
