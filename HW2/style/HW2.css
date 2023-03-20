@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  html, body {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #adc4c0;
+}
+.block {
+  height: 150px;
+  position: relative;
+  width: 250px;
+  background: #040836;
+}
+.info-container {
+  position: relative;
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding: 0 8px;
+text-align: center;
+color: #ededa4;
+}
+p  {
+  font-size: 30px;
+  text-align: center;
+  color: #582180;
+}
+.info-container p{
+  font-size: 1em;
+  color: #ededa4;
+}
